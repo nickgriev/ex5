@@ -1,0 +1,18 @@
+{
+    "tag": "div",
+    "attrs": {},
+    "children": [
+        {
+            "tag": "p",
+            "attrs": {},
+            "children": ["Hello, I'm product"]
+        },
+        {
+            "tag": "a",
+            "attrs": {
+                "href": "/"
+            },
+            "children": ["Go to home page"]
+        }
+    ]
+}
